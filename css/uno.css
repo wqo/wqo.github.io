@@ -1155,7 +1155,8 @@ hr {
   box-shadow: none; }
 
 .post img {
-  max-width: 100%;
+  max-width: 60%;
+  max-height: 75%;
   margin: 0 auto;
   border-radius: 3px;
   text-align: center; }
